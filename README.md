@@ -20,3 +20,6 @@ Structure of the Repository
 run_analysis.R: Script that performs data cleaning and processing.
 CodeBook.md: Describes the variables and the cleaning steps performed.
 tidy_data.txt: The final tidy dataset for analysis.
+
+The data set used is available in the below link
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
